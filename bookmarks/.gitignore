@@ -1,0 +1,5 @@
+media/
+cert.key
+cert.crt
+db.sqlite3
+.env
